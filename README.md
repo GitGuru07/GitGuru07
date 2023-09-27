@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitGuru07
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning to data structures.
+- 🌱 I’m currently learning code!
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me to my career in perspective of job ?
 
